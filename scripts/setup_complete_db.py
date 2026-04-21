@@ -26,7 +26,7 @@ INITIAL_USERS = [
     {
         "name": "Merchant Test",
         "email": "merchant@test.com",
-        "mobile": "7396787133",
+        "mobile": "9392240686",
         "password": "password123",
         "is_merchant": True
     },
